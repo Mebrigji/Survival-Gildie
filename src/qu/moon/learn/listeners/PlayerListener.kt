@@ -20,8 +20,8 @@ class PlayerListener : Listener, Overwritten() {
         action.addLine("welcome", "&7Witaj &l${player.name} &7na &fwolfmc.pl &7na serwerze jest &f${Bukkit.getOnlinePlayers().size} &7graczy.")
 
         val user: User = event.player.getUser()
-        if(user)
-
+        if(user.canClaim()) user.claim(consumer = {
+            user.money += 20
+        })
     }
-
 }

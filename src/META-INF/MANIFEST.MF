@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: 1.16.4-paper.jar lombok.jar kotlin-stdlib.jar kotlin-reflect
+ .jar kotlin-test.jar groovy-astbuilder-4.0.0-alpha-3.jar groovy-dateuti
+ l-4.0.0-alpha-3.jar groovy-datetime-4.0.0-alpha-3.jar groovy-cli-picocl
+ i-4.0.0-alpha-3.jar groovy-cli-commons-4.0.0-alpha-3.jar groovy-ant-4.0
+ .0-alpha-3.jar groovy-contracts-4.0.0-alpha-3.jar groovy-docgenerator-4
+ .0.0-alpha-3.jar groovy-groovydoc-4.0.0-alpha-3.jar groovy-ginq-4.0.0-a
+ lpha-3.jar groovy-jsr223-4.0.0-alpha-3.jar groovy-jmx-4.0.0-alpha-3.jar
+  groovy-macro-library-4.0.0-alpha-3.jar groovy-nio-4.0.0-alpha-3.jar gr
+ oovy-servlet-4.0.0-alpha-3.jar groovy-json-4.0.0-alpha-3.jar groovy-sql
+ -4.0.0-alpha-3.jar groovy-test-junit5-4.0.0-alpha-3.jar groovy-testng-4
+ .0.0-alpha-3.jar groovy-macro-4.0.0-alpha-3.jar groovy-groovysh-4.0.0-a
+ lpha-3.jar groovy-templates-4.0.0-alpha-3.jar groovy-typecheckers-4.0.0
+ -alpha-3.jar groovy-test-4.0.0-alpha-3.jar groovy-console-4.0.0-alpha-3
+ .jar groovy-yaml-4.0.0-alpha-3.jar groovy-swing-4.0.0-alpha-3.jar groov
+ y-xml-4.0.0-alpha-3.jar groovy-4.0.0-alpha-3.jar
+

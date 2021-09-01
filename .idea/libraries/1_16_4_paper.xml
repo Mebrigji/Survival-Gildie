@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="1.16.4-paper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../wszystko i nic/Inne/Paweł/do eclipse/1.16.4-paper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../wszystko i nic/Inne/Paweł/do eclipse/lombok.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../wszystko i nic/Inne/Paweł/do eclipse/1.16.4-paper.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -22,6 +22,7 @@ class PlayerListener : Listener, Overwritten() {
         val user: User = event.player.getUser()
         if(user.canClaim()) user.claim(consumer = {
             user.money += 20
+            player.sendActionBar("join-reward", "&7W nagrode za dolaczenie otrzymales/as &f20$")
         })
     }
 }
